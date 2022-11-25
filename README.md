@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
-
 ![pansakr's github stats](https://github-readme-stats.vercel.app/api?username=pansakr&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pansakr)
 
