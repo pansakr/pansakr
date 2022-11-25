@@ -9,8 +9,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp
 </p>
 
-![pansakr's github stats](https://github-readme-stats.vercel.app/api?username=pansakr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pansakr)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pansakr&show_icons=true"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pansakr"/></p>
 
