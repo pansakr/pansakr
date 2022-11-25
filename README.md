@@ -1,6 +1,8 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=def&fontSize=90" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90" /></p>
 
+<p align="center">✏백엔드 프로그래머가 되기위해 공부중인✏ </p>
 
+<p align="center"> pansakr 입니다 </p>
 
 
 
